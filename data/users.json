@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Admin",
+    "email": "admin@saurabh.com",
+    "password": "admin123",
+    "role": "admin"
+  },
+  {
+    "email": "shauryadixit1@gmail.com",
+    "password": "Shauryadixit1",
+    "role": "student"
+  },
+  {
+    "email": "saurabh1dixit2005@gmail.com",
+    "password": "Saurabh1dixit",
+    "role": "student"
+  },
+  {
+    "email": "abhishek2dixit2005@gmail.com",
+    "password": "Abhishek2dixit@",
+    "role": "student"
+  }
+]
